@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6995777-e16e-45a4-9e6f-8a46e442b45a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZtyYPWMaLrTql60YvJGEaVR3M4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="C:/Intel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.politecnicomalaga.calculadora.calculadora" />
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.politecnicomalaga.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.calculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jaime\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6995777-e16e-45a4-9e6f-8a46e442b45a" name="Default Changelist" comment="" />
+      <created>1585672731175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585672731175</updated>
+      <workItem from="1585672733399" duration="2473000" />
+      <workItem from="1585679648891" duration="5431000" />
+      <workItem from="1585728987164" duration="7717000" />
+      <workItem from="1585758313266" duration="1068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="77" key="#Notifications" timestamp="1585730255972">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="77" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1585730255972" />
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585679780549">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585679780549" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1585679436413">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585679436413" />
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom" timestamp="1585758806319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585758806319" />
+    <state width="1342" height="198" key="GridCell.Tab.0.center" timestamp="1585758806319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585758806319" />
+    <state width="1342" height="198" key="GridCell.Tab.0.left" timestamp="1585758806319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585758806319" />
+    <state width="1342" height="198" key="GridCell.Tab.0.right" timestamp="1585758806319">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585758806319" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1585757044585">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1585757044585" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1585758325592">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1585758325592" />
+    <state x="209" y="114" key="new project wizard" timestamp="1585673608627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1585673608627" />
+  </component>
+</project>
